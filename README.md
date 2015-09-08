@@ -1,0 +1,1 @@
+This is a simple program that finds all anagrams in a given array. To use it, simply replace the `dictionary` array with a list of words to test.
